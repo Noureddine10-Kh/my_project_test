@@ -1,2 +1,2 @@
 code of create settings
-this is file1
+this is2 file1
