@@ -1,1 +1,2 @@
 code of create settings
+this is file1
